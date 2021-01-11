@@ -1,6 +1,6 @@
-# Your Flick Game Title Goes Here
+# Vending Machine
 
-## Description
+## Game in which you can get a snack
 
-Description of the game goes here.
+Made with www.flickfame.org.
 
